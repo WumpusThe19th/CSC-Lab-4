@@ -23,10 +23,4 @@ public class OriginalLab4{
             else
                 return fib(n – 1) + fib(n – 2);
         }
-
-        public static void main(String[] args){
-            countDown(4);
-            gcd(4, 2);
-            fib(5);
-        }
 }
