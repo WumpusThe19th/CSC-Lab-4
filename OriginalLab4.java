@@ -21,6 +21,6 @@ public class OriginalLab4{
             else if (n == 1) // base case
                 return 1;
             else
-                return fib(n – 1) + fib(n – 2);
+                return fib(n - 1) + fib(n - 2);
         }
 }
