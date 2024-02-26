@@ -23,19 +23,4 @@ public class OriginalLab4{
             else
                 return fib(n - 1) + fib(n - 2);
         }
-
-        void helloWorld(int n){
-            if (n == 0)
-                return; 
-            System.out.println("Hello World!");
-            helloWorld(n - 1);
-        }
-
-        int SumOfSevens(int n1, int n2){
-            
-        }
-
-        void recursiveBinarySearch(int[] arr, int key){
-        
-        }
 }
